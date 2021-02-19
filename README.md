@@ -1,4 +1,4 @@
-## Installation and usage slide
+## Installation and usage
 
 
 

@@ -1,4 +1,7 @@
-## Setup
+## Installation and usage slide
+
+
+
 ### Docker
 Go to the [Nvidia docker github page](https://github.com/NVIDIA/nvidia-docker) and install nvidia-docker for your system.
 

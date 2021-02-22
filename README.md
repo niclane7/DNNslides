@@ -1,5 +1,20 @@
 ## Installation and usage
 
+The material here is offered based on two of my lectures that are part of the Deep Neural Networks class at the Computer Science and Technology department at the University of Cambridge: https://mlatcl.github.io/deepnn/
+
+The two lectures in question were: "Convolutional Neural Networks" and "Hardware Ecosystem".
+
+Depending on how you want to view/use these slides you should install them in different ways. I'll describe these three ways below.
+
+### Simply to view slides
+
+If you only want to locally view the slides on your own machine, and aren't interested in running (and experimenting) with the code that is embedded then it is all very easy.... Simply sync to this repo, and run the two Jupyter Notebooks you find locally. As long as those notebooks have access to to the directory they expect to contain the images they will render fine.
+
+This assumes you have Jupter Notebook software installed locally. 
+
+Then you run from the command line something like: `jupyter notebook --no-browser --allow-root --ip=0.0.0.0 home/niclane/` where you replace the directory with the location where you have placed this repo.
+
+
 if you want to view the slides just use jupiter notebook. only but you will see some errors.
 
 sync to this repo.

@@ -1,6 +1,14 @@
 ## Installation and usage
 
+if you want to view the slides just use jupiter notebook. only but you will see some errors.
 
+sync to this repo.
+
+if you want to see the code and interact with it do the below.
+
+if you have cpu. do X
+
+if you GPU do Y.
 
 ### Docker
 Go to the [Nvidia docker github page](https://github.com/NVIDIA/nvidia-docker) and install nvidia-docker for your system.
